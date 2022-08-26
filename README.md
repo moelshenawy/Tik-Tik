@@ -21,13 +21,13 @@
 
 ### Screenshot
 
-![Home Page](/utils/Home-page.png)
-![Home Page](/utils/Search-page.png)
-![Home Page](/utils/Video-details.png)
+![Home page](/utils/Home-page.png)
+![Search page](/utils/Search-page.png)
+![Video details page](/utils/Video-details.png)
 
 ### Links
 
-- Live Site URL: [Tik-Tik](https://tik-tik-ebon.vercel.app/)
+- Live Site URL: [Tik-Tik](https://elshenawy-tiktik.vercel.app/)
 
 ## My process
 
