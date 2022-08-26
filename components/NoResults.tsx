@@ -9,7 +9,7 @@ const NoResults = ({ text }: IProps) => {
   return (
     <div className="flex flex-col justify-center items-center h-full w-full">
       <p className="text-8xl">
-        {text === "No Comments Yet!" ? (
+        {text === "No Comments Yet! Be First to do add the comment." ? (
           <BiCommentX />
         ) : (
           <MdOutlineVideocamOff />
