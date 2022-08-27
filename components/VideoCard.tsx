@@ -12,11 +12,9 @@ import { Video } from "./../types";
 interface IProps {
   post: Video;
 }
-
 const VideoCard: NextPage<IProps> = ({
   post: { caption, postedBy, video, _id, likes },
 }) => {
-  console.log(likes);
   const [isHover, setIsHover] = useState(false);
   const [playing, setPlaying] = useState(false);
   const [isVideoMuted, setIsVideoMuted] = useState(false);
